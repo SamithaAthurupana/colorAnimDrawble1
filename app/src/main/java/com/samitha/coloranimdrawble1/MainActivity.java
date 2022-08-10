@@ -44,13 +44,13 @@ public class MainActivity extends AppCompatActivity {
 
             // Add Values to ArrayList
             values = new ArrayList<>();
-            values.add(111.1);
-            values.add(111.9);
-            values.add(111.3);
-            values.add(111.4);
-            values.add(110.5);
-            values.add(111.6);
-            values.add(111.7);
+            values.add(20.1);
+            values.add(21.9);
+            values.add(21.3);
+            values.add(21.4);
+            values.add(20.5);
+            values.add(21.6);
+            values.add(21.7);
 
             //Generate Mean
             double sum = 0.0;
